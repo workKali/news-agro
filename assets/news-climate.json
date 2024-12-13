@@ -1,0 +1,113 @@
+{
+    "daysNoDisplayAgain": 60,
+    "countries": [
+      {
+        "countryId": 4,
+        "advertisements": [
+          {
+            "reference": "82h437aa812q13",
+            "activeUntil": "2024-12-15T23:59:59Z",
+            "isActive": true,
+            "es": {
+              "subtitle": "<strong>Aviso 25-24:</strong> Eventos ciclónicos en Mar Caribe con afectaciones en Centro America y alto riesgo de inundaciones y deslizamientos de tierra.</br><strong>Vigencia: </strong>13-18 de noviembre de 2024</br>Para más información: info@agroclimatica.com ",
+              "title": {
+                "defaultT": "how deep is your love"
+              }
+            },
+            "en": {
+              "title": {
+                "newT": "Nuevo aviso meteorológico",
+                "seeLater": "Otra vez el mismo aviso meteorológico",
+                "defaultT": ""
+              },
+              "subtitle": "<strong>Aviso 25-24:</strong> Eventos ciclónicos en Mar Caribe con afectaciones en Centro America y alto riesgo de inundaciones y deslizamientos de tierra.</br><strong>Vigencia: </strong>13-18 de noviembre de 2024</br>Para más información: info@agroclimatica.com "
+            },
+            "link": "http://web.agroclimatica.com/Files/Agroclimatica_AvisoMeteorol%C3%B3gico_25-24.pdf"
+          },
+          {
+            "reference": "82h437aa812q132",
+            "isActive": true,
+            "es": {
+              "title": {
+                "seeLater": "Otra vez el mismo aviso meteorológico 2.0",
+                "defaultT": "Nuevo aviso meteorológico 2.0"
+              },
+              "subtitle": "<strong>Aviso 25-24:</strong> Eventos ciclónicos en Mar Caribe con afectaciones en Centro America y alto riesgo de inundaciones y deslizamientos de tierra.</br><strong>Vigencia: </strong>13-18 de noviembre de 2024</br>Para más información: info@agroclimatica.com "
+            },
+            "en": {
+              "title": {
+                "newT": "Nuevo aviso meteorológico 2.0",
+                "seeLater": "Otra vez el mismo aviso meteorológico 2.0",
+                "defaultT": "Nuevo aviso meteorológico 2.0"
+              },
+              "subtitle": "<strong>Aviso 25-24:</strong> Eventos ciclónicos en Mar Caribe con afectaciones en Centro America y alto riesgo de inundaciones y deslizamientos de tierra.</br><strong>Vigencia: </strong>13-18 de noviembre de 2024</br>Para más información: info@agroclimatica.com "
+            },
+            "link": "http://web.agroclimatica.com/Files/Agroclimatica_AvisoMeteorol%C3%B3gico_25-24.pdf"
+          },
+          {
+            "reference": "82h437aa812q1322",
+            "activeUntil": "2024-12-11T23:59:59Z",
+            "isActive": true,
+            "es": {
+              "subtitle": "<strong>Aviso 25-24:</strong> Eventos ciclónicos en Mar Caribe con afectaciones en Centro America y alto riesgo de inundaciones y deslizamientos de tierra.</br><strong>Vigencia: </strong>13-18 de noviembre de 2024</br>Para más información: info@agroclimatica.com ",
+              "title": {
+                "newT": "Nuevo aviso meteorológico",
+                "seeLater": "Otra vez el mismo aviso meteorológico",
+                "defaultT": "how deep is your love"
+              }
+            },
+            "en": {
+              "title": {
+                "newT": "Nuevo aviso meteorológico",
+                "seeLater": "Otra vez el mismo aviso meteorológico",
+                "defaultT": ""
+              },
+              "subtitle": "<strong>Aviso 25-24:</strong> Eventos ciclónicos en Mar Caribe con afectaciones en Centro America y alto riesgo de inundaciones y deslizamientos de tierra.</br><strong>Vigencia: </strong>13-18 de noviembre de 2024</br>Para más información: info@agroclimatica.com "
+            },
+            "link": "http://web.agroclimatica.com/Files/Agroclimatica_AvisoMeteorol%C3%B3gico_25-24.pdf"
+          },
+          {
+            "reference": "82h437aa812q13aaa1",
+            "activeUntil": "2024-12-12T23:59:59Z",
+            "isActive": true,
+            "es": {
+              "subtitle": "<strong>Aviso 25-24:</strong> Eventos ciclónicos en Mar Caribe con afectaciones en Centro America y alto riesgo de inundaciones y deslizamientos de tierra.</br><strong>Vigencia: </strong>13-18 de noviembre de 2024</br>Para más información: info@agroclimatica.com ",
+              "title": {
+                "newT": "Nuevo aviso meteorológico",
+                "seeLater": "Otra vez el mismo aviso meteorológico",
+                "defaultT": "how deep is your love"
+              }
+            },
+            "en": {
+              "title": {
+                "newT": "Nuevo aviso meteorológico",
+                "seeLater": "Otra vez el mismo aviso meteorológico",
+                "defaultT": ""
+              },
+              "subtitle": "<strong>Aviso 25-24:</strong> Eventos ciclónicos en Mar Caribe con afectaciones en Centro America y alto riesgo de inundaciones y deslizamientos de tierra.</br><strong>Vigencia: </strong>13-18 de noviembre de 2024</br>Para más información: info@agroclimatica.com "
+            },
+            "link": "http://web.agroclimatica.com/Files/Agroclimatica_AvisoMeteorol%C3%B3gico_25-24.pdf"
+          },
+          {
+            "reference": "asdkluahhs",
+            "isActive": true,
+            "es": {
+              "title": {
+                "newT": "asd awdawdas awdaw a",
+                "seeLater": "asd awdawdas awdaw a asd awdawdas awdaw a"
+              },
+              "subtitle": "awdawdaw asd awdasdaw aw adas dasaw aw das"
+            },
+            "en": {
+              "title": {
+                "newT": "yyy",
+                "seeLater": "yyy 2"
+              },
+              "subtitle": "yyy yyyyy "
+            },
+            "link": "https://chatgpt.com"
+          }
+        ]
+      }
+    ]
+  }
